@@ -1,4 +1,4 @@
-# LostLands
+# LostLands (Developers Information)
 The Lost Lands Private DevLog Repository
 
 ## Base Game ZIP
